@@ -21,7 +21,7 @@ nav#navbar a{
 
 #content{
 	grid-area: maincontent;
-	position: fixed;
+	/*position: fixed;*/
 }
 
 header{
